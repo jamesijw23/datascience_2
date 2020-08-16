@@ -1,4 +1,11 @@
 
+a[href='red'] {
+    color: red;
+    pointer-events: none;
+    cursor: default;
+    text-decoration: none;
+}
+
 # Welcome to Data Science II
 
 Thank you for joining my second data science course through UMBC Summer Enrichment Academy. I am happy to answer any question you may have about the course. Check here everyday before and after class for notes, videos and updates.
@@ -24,6 +31,8 @@ The syllabus can be download [here](https://github.com/jamesijw23/datascience_2/
 
 **Data Science I** - Learn how to extract data from various sources such as Wikipedia and Excel Sheets, manipulate data using the tidyverse (select, mutate, filter functions), and visualize data using ggplot.
 
-*(You should add the follownig to your extracuricular activities section of your resume at the end of the week)*
+*<p style="color:red;">(You should add the follownig to your extracuricular activities section of your resume at the end of the week)*</p>
+
 **Data Science II** - Learn how to join and combine various types of data, manipulate text data using the stringr functions, and create an R Shiny web application.
 
+<a href="red">Look, ma! Red!</a>
