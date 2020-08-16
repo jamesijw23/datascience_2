@@ -17,9 +17,13 @@ The syllabus can be download [here](https://github.com/jamesijw23/datascience_2/
 
 
 ## Resume Description
-**You Should add the follownig to your extracuricular activities section of your resume**
+
+
+**You Should add this to your resume**
 *University of Maryland Baltimore Couty - Summer Enrichment Academy*
+
 **Data Science I** - Learn how to extract data from various sources such as Wikipedia and Excel Sheets, manipulate data using the tidyverse (select, mutate, filter functions), and visualize data using ggplot.
 
+*(You should add the follownig to your extracuricular activities section of your resume at the end of the week)*
 **Data Science II** - Learn how to join and combine various types of data, manipulate text data using the stringr functions, and create an R Shiny web application.
 
