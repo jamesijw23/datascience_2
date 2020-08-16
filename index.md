@@ -6,6 +6,7 @@
 
 
 ## Plans Table
+
 |             | Monday |    Tuesday    |            Wednesday           | Thursday |     Friday     |
 |:-----------:|:------:|:-------------:|:------------------------------:|:--------:|:--------------:|
 |    Topics   | Review | Binds & Joins | String Manipulations & R Shiny |  R Shiny | Flex Dashboard |
