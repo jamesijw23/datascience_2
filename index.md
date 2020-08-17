@@ -17,17 +17,17 @@ The syllabus can be download [here](https://github.com/jamesijw23/datascience_2/
 
 ## Resume Description
 
-**You Should add this to your resume**
+**You should add the follownig class description to your "Extracuricular Activities" section of your resume**
 
 
 *University of Maryland Baltimore Couty - Summer Enrichment Academy*
 
-**Data Science I (Basics in R)** - Learn how to extract data from various sources such as Wikipedia and Excel Sheets, manipulate data using the tidyverse (select, mutate, filter functions), and visualize data using ggplot. All of my coding experience in this class was done in R Studio.
+**Data Science I (Basics in R)** - Learned how to extract data from various sources such as Wikipedia and Excel Sheets, manipulate data using the tidyverse (select, mutate, filter functions), and visualize data using ggplot. All of my coding experience in this class was done in R Studio.
 
 
-**You should add the follownig class description to your "Extracuricular Activities" section of your resume at the end of this week**
+**Add at the end of this week**
 
 
-**Data Science II (Basics in R)** - Learn how to join and combine various types of data, manipulate text data using the stringr functions, and create an R Shiny web application. All of my coding experience in this class was done in R Studio.
+**Data Science II (Basics in R)** - Learned how to join and combine various types of data, manipulate text data using the stringr functions, and create an R Shiny web application. All of my coding experience in this class was done in R Studio.
 
 
