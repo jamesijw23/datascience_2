@@ -11,7 +11,7 @@ The syllabus can be download [here](https://github.com/jamesijw23/datascience_2/
 |:-----------:|------|:-------------:|:------------------------------:|:--------:|:--------------:|
 |    Topics   | Review | Binds & Joins | String Manipulations & R Shiny |  R Shiny | Flex Dashboard |
 |    Videos   | [1. R and R Files](https://youtu.be/oWgORoLb_T0) [(pdf)](https://github.com/jamesijw23/datascience_2/blob/master/video_1_review_rfiles.pdf),<br> [2. EMV](https://youtu.be/_ahzDxKhmp0) [(pdf)](https://github.com/jamesijw23/datascience_2/blob/master/video_2_review_emv.pdf),<br> [3. Stats Review](https://youtu.be/EWhn_7WzFDI) [(pdf)](https://github.com/jamesijw23/datascience_2/blob/master/video_3_review_basic_statisitics.pdf) |               |                                |          |                |
-| Class Notes |        |               |                                |          |                |
+| Class Notes | [Day 1 Notes](https://github.com/jamesijw23/datascience_2/blob/master/day_1_no_solutions.pdf)       |               |                                |          |                |
 
 
 
@@ -24,7 +24,9 @@ The syllabus can be download [here](https://github.com/jamesijw23/datascience_2/
 
 **Data Science I (Basics in R)** - Learn how to extract data from various sources such as Wikipedia and Excel Sheets, manipulate data using the tidyverse (select, mutate, filter functions), and visualize data using ggplot. All of my coding experience in this class was done in R Studio.
 
+
 **You should add the follownig class description to your "Extracuricular Activities" section of your resume at the end of this week**
+
 
 **Data Science II (Basics in R)** - Learn how to join and combine various types of data, manipulate text data using the stringr functions, and create an R Shiny web application. All of my coding experience in this class was done in R Studio.
 
